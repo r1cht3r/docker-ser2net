@@ -16,7 +16,7 @@ Be sure to enable any ports or devices as necessary.
 Example usage (docker-compose):
 
 ```yaml
-    version: '3.4'
+    version: '3.5'
     services:
       ser2net:
         image: danrue/ser2net:3.5
